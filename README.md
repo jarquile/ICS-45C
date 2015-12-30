@@ -2,10 +2,10 @@
 
 Complete and Updated ICS-45C Labs from Fall 15
 
-Project1-Introduction to C++ basics
+Project #1: Stay (Faraway, So Close!)
 
-Project2-Introduction to pointers and more complex programs
+Project #2: Letter Never Sent
 
-Project3-Introduction to well behaved classes
+Project #3: Maps and Legends
 
-Project4-Introduction to polymorphism and abstract base classes
+Project #4: People Just Love to Play with Words
